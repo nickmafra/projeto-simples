@@ -1,0 +1,7 @@
+# crie um arquivo application.yml nesta pasta, preenchendo com os dados
+
+spring:
+    datasource:
+        password: DB_PASS
+        url: jdbc:mysql://DB_URL:3306/DB_NAME
+        username: DB_USER
